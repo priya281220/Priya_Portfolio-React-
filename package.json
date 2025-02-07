@@ -1,7 +1,7 @@
 {
   "name": "priya-portfolio",
   "version": "0.1.0",
-  "homepage": "https://priyaCodequeue.github.io/My_portfoliio",
+  "homepage": "https://priya-portfolio-react.onrender.com",
   "private": true,
   "dependencies": {
     "@emailjs/browser": "^3.11.0",
